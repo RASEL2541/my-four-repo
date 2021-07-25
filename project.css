@@ -1,0 +1,70 @@
+.font-eidite{
+    font-size: 70px;
+    font-family: 'Fira Sans', sans-serif;
+    
+}
+.halp-width{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+.short{
+    width:100%;
+}
+.orange-highligh{
+    color: orange;
+}
+.button{
+    text-decoration: none;
+    background-image:linear-gradient( lightSalmon, tomato);
+    padding: 15px 20px;
+    border-radius:11px ;
+    font-size: 20px;
+    color: white;
+    font: weight 700px;
+}
+.top-img{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.back-groung{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
+}
+.halp{
+font-size: 50px;
+}
+.single-experience{
+    box-shadow:10px 10px 10px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+#ful-strak{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightSalmon, tomato) ;
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    
+}
+.font-clore{
+    color: orange;
+
+}
+.botom-background-img{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.line-center{
+    text-align:center;
+    font-size: 13px;
+}
